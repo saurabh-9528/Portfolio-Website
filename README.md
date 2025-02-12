@@ -34,7 +34,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-- **Email:** your-email@example.com
+- **Email:** saurabhtiwari759901@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/saurabh-tiwari-013780248/
 - **GitHub:** https://github.com/saurabh-9528
 
